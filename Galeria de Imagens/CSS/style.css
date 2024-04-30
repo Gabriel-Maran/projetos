@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  background-color: #002352;
+  display: flex;
+  justify-content: space-between; /*Display flex necessário para seu funcionamento*/
+  color: white;
+  padding: 2%;
+}
+
+main {
+}
+
+footer {
+}
+
+#box-ordenar button {
+  background-color: #0e4185;
+  border: 0;
+  padding: 15px 20px;
+  color: white;
+  border-radius: 5px;
+}
+
+#box-categorias button {
+  background-color: green;
+  border: 0;
+  padding: 15px 20px;
+  color: white;
+  border-radius: 5px;
+}
