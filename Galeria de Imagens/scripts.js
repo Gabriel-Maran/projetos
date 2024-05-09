@@ -1,6 +1,6 @@
+
 document.addEventListener('DOMContentLoaded', function () {
-alert("abc")
-p
+console.log("")
 })
 //object: estrutura de dados que pode armazenar multiplos valores
 //NULL: quando esta vazio
