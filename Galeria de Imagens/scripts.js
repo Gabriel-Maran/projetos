@@ -1,4 +1,3 @@
-
 document.addEventListener('DOMContentLoaded', function () {
     const notamedia = Number(prompt("Digite a media"));
     if(notamedia == 0){
