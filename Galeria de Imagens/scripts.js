@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
     const numero = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
     numero.forEach(num  =>{
-        console.log("num")
+        console.log(num)
     })
 })
 //objetos são coleções não ordenadas de pares chave-valor, onde cada valor é associado a uma chave única
