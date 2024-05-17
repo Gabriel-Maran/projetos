@@ -36,3 +36,11 @@ footer {
   color: white;
   border-radius: 5px;
 }
+
+#box-categorias button:hover{
+  background-color: rgb(42, 146, 42);
+}
+
+#box-ordenar button:hover{
+  background-color: #244f88;
+}
