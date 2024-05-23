@@ -44,3 +44,14 @@ footer {
 #box-ordenar button:hover{
   background-color: #244f88;
 }
+
+img{
+  max-width: 900px;
+
+  display: grid;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 2%;
+}
