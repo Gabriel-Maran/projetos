@@ -37,17 +37,16 @@ footer {
   border-radius: 5px;
 }
 
-#box-categorias button:hover{
+#box-categorias button:hover {
   background-color: rgb(42, 146, 42);
 }
 
-#box-ordenar button:hover{
+#box-ordenar button:hover {
   background-color: #244f88;
 }
 
-img{
+img {
   max-width: 900px;
-
   display: grid;
   text-align: center;
   align-items: center;
