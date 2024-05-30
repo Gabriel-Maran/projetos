@@ -45,12 +45,13 @@ footer {
   background-color: #244f88;
 }
 
-img {
-  max-width: 900px;
-  display: grid;
-  text-align: center;
-  align-items: center;
-  justify-content: center;
-  margin: auto;
-  margin-top: 2%;
+#galeria-imagens{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+}
+
+#galeria-imagens img{
+  max-width: 100%;
 }
